@@ -1,4 +1,4 @@
-incident_id,weapon_id,weapon_type,gun_class,gun_type
+﻿incident_id,weapon_id,weapon_type,gun_class,gun_type
 2,2,gun,LG,shotgun
 3,3,gun,HG,pistol
 3,4,blunt object,NG,
