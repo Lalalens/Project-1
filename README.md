@@ -29,7 +29,7 @@
 #### Is a ban on assault weapons an effective way to stop mass shootings?
 
 
-## Shelonta Gilbert What Type of Weapons are typically used in mass shootings
+## What Type of Weapons are typically used in mass shootings - Shelonta Gilbert 
 
 In the article *More mass shooters are using semi-automatic rifles – often bought legally* by Ashley Williams for USA Today, the claim is made that semi-automatic rifles are utilized more often than any other weapon in mass shootings. This made me question if what is often reported by the media is the truth. Before we dive into the data, we should first look at what a mass shooting is defined as. The United States Congress defines a mass shooting as four or more people killed in a single incident, excluding the shooter. Knowing this information, I thought thoroughly about what I wanted to know and went in search of data that could help me answer: What types of guns are typically used in mass shootings and compare the results to the medias claims.
 
