@@ -4,7 +4,8 @@
 
 ## Project Name:  Media mass shooting narrative: Fact or Agenda?
 
-## Project Team Members:  • Shelonta Gilbert
+## Project Team Members:  
+##                                           • Shelonta Gilbert
 ##                                           • Janice Powers
 ##                                           • Delon Lawrence
 
