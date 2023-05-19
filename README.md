@@ -44,3 +44,7 @@ Keeping this data in mind I wanted get a better understanding of what message th
 
 In conclusion the media is misrepresenting the truth by only reporting the mass shootings that have a high death rate, because the narrative is that semi-automatic weapons are most often used when the data shows that they are not.
 
+## Resources - Shelonta Gilbert
+DataFrame: https://data.world/associatedpress/mass-killings-public
+Article: https://www.usatoday.com/story/news/nation/2022/07/12/mass-shootings-weapons-legal-what-to-know/7814081001/
+
