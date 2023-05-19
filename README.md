@@ -86,6 +86,9 @@ Although there is an upward trend of the number of mass shootings, analysis of t
 #### Turanovic, Jillian J. A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States. [distributor], 2022-09-29.
 #### https://doi.org/10.3886/ICPSR38482.v2
 
+
+
+
 #Resources Delon Lawrence
 
 https://theconversation.com/race-of-mass-shooters-influences-how-the-media-cover-their-crimes-new-study-shows-100152
