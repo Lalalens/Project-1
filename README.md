@@ -46,5 +46,6 @@ In conclusion the media is misrepresenting the truth by only reporting the mass 
 
 ## Resources - Shelonta Gilbert
 DataFrame: https://data.world/associatedpress/mass-killings-public
+
 Article: https://www.usatoday.com/story/news/nation/2022/07/12/mass-shootings-weapons-legal-what-to-know/7814081001/
 
