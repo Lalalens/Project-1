@@ -17,7 +17,7 @@
 
 ## Research Questions to Answer
 
-#### Is the typical profile given for the people who commit mass shootings a true representation?
+#### Based on Mass shooter articles from popular News outlets Does the media give the full image of mass shooters?
 #### Does the media give honest information when reporting on mass shootings?
 #### Is a ban on assault weapons an effective way to stop mass shootings?
 
@@ -99,7 +99,7 @@ https://abcnews.go.com/amp/US/living-us-mass-school-shooters-incarcerated/story?
 
 https://www.nydailynews.com/news/nydn-news-remembering-columbine-high-school-shooting-1-3080137-photogallery.html
 
-Based on Mass shooter articles from popular News outlets Does the media tell the full image about mass shooters? No. I found that shooters vary and have complex backgrounds shaped by many factors.
+Based on Mass shooter articles from popular News outlets Does the media give the full image of mass shooters? No. I found that shooters vary and have complex backgrounds shaped by many factors.
 
 While they might not be intentionally doing this the narrative portrayed in the media is not the full truth. This may be due to factors like time constraints, level of interest of stories covered etc. Regardless of what the reason is much information about what constitutes mass shooters is not told to us in the news. And what is revealed to us plays a part in shaping our perception of reality.
 
