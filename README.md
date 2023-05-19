@@ -86,3 +86,25 @@ Although there is an upward trend of the number of mass shootings, analysis of t
 #### Turanovic, Jillian J. A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States. [distributor], 2022-09-29.
 #### https://doi.org/10.3886/ICPSR38482.v2
 
+#Resources Delon Lawrence
+
+https://theconversation.com/race-of-mass-shooters-influences-how-the-media-cover-their-crimes-new-study-shows-100152
+
+https://news.sky.com/story/why-are-white-men-more-likely-to-carry-out-mass-shootings-11252808
+
+https://abcnews.go.com/amp/US/living-us-mass-school-shooters-incarcerated/story?id=36986507
+
+https://www.nydailynews.com/news/nydn-news-remembering-columbine-high-school-shooting-1-3080137-photogallery.html
+
+Based on Mass shooter articles from popular News outlets Does the media tell the full image about mass shooters? No. I found that shooters vary and have complex backgrounds shaped by many factors.
+
+While they might not be intentionally doing this the narrative portrayed in the media is not the full truth. This may be due to factors like time constraints, level of interest of stories covered etc. Regardless of what the reason is much information about what constitutes mass shooters is not told to us in the news. And what is revealed to us plays a part in shaping our perception of reality.
+
+To find out what the media says about mass shooters I pulled 3 articles about mass shootings from the internet. This was mainly due to the time constraint of the project. However I did manage to find a study that examines how news media portrays the causes of mass shootings for shooters of different races.
+
+The general portrayal I observed in the articles is white with mental illness while the study used 433 online and print news articles covering 219 mass shootings from 2013 to 2015.
+
+The goal of the mass shooter profile part of the data was to show that there is much more to mass shooters than what the media portrays.
+
+
+
