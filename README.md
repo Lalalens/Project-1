@@ -9,14 +9,7 @@
 ##                                           • Janice Powers
 ##                                           • Delon Lawrence
 
-# Datasets
 
-
-
-
-#### A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States (ICPSR 38482)
-#### Turanovic, Jillian J. A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States. [distributor], 2022-09-29.
-#### https://doi.org/10.3886/ICPSR38482.v2
 
 ## Project Description/Outline
 
@@ -48,4 +41,48 @@ In conclusion the media is misrepresenting the truth by only reporting the mass 
 DataFrame: https://data.world/associatedpress/mass-killings-public
 
 Article: https://www.usatoday.com/story/news/nation/2022/07/12/mass-shootings-weapons-legal-what-to-know/7814081001/
+
+***
+## Federal Ban Review – Janice Powers
+The United States federal government passed a ban on assault type weapons ban known as the “Public Safety and Recreational Firearms Use Protection Act” as a subsection of the “Violent Crime Control and Law Enforcement Act of 1994”. The act prohibited the manufacturing for civilian use of certain semi-automatic firearms, defined as assault weapons and large capacity magazines for ammunition. The ban was in effect from September 1994 – September 2004, when it expired. 
+Many pundits call for laws to restrict access to weapons and specifically focus on assault weapons. By looking at the data and comparing frequencies of mass shootings, types of weapons used, and the number of victims of mass shootings, grouped by dates when the ban was in place and when it was not, we should be able to see if the ban made a difference in these incidents. 
+The data that I used is from the National Archive of Criminal Justice Data. The specific dataset is “Turanovic, Jillian J. A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States. [distributor], 2022-09-29. https://doi.org/10.3886/ICPSR38482.v2”.  
+### Data Description and cleaning methods
+The dataset consists of 89 variables and 719 records. The dataset is not complete with missing variables for several of the variables. The data is coded 0 = no, 1 = yes, and 99 = missing. 
+The original data is in a tab delimited file. It was downloaded to a Jupyter Notebook and the tabs were replaced with commas. The data was then saved into a csv file to use for the project. The columns were reduced from 89 to 17 and the “99” variable was replaced as a NAN to run the analysis. 
+
+### Findings
+Descriptive data for “Yearly Counts” of mass shootings:       
+|count |39.00|
+|mean	|18.43|
+|std |4.07|
+|min |10.00|
+|25% |15.00|
+|50% |18.00|
+|75% |21.50|
+|max |26.00|
+
+![scatterbyyear](https://github.com/Lalalens/Project-1/assets/128756664/0394378a-f2ca-4a14-8ed5-ea760fd4c20e)
+
+![number_group](https://github.com/Lalalens/Project-1/assets/128756664/34ea067a-e41d-4c5c-a6c5-f731d3829d82)
+
+![number_byfive](https://github.com/Lalalens/Project-1/assets/128756664/eba660e8-08a4-40b8-a8fb-9f141547d305)
+
+![assualt_group](https://github.com/Lalalens/Project-1/assets/128756664/25a7412c-c621-4344-a139-eed4f7c2b5ba)
+
+![weapon_type](https://github.com/Lalalens/Project-1/assets/128756664/14f474e9-96d5-46c5-a199-52d449d80543)
+
+![victims](https://github.com/Lalalens/Project-1/assets/128756664/204c7de1-20bb-42f7-894b-321ab5447c70)
+
+
+### Conclusion
+Although there is an upward trend of the number of mass shootings, analysis of this data set does not show that there was a real difference in the number of mass shootings during the period of the federal ban on assault weapons. The number of assault weapons used during a mass shooting did go up. However, the data shows that handguns are used more often than any other weapon. The number of victims did not increase significantly either. 
+
+
+### Datasets
+
+
+#### A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States (ICPSR 38482)
+#### Turanovic, Jillian J. A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018, United States. [distributor], 2022-09-29.
+#### https://doi.org/10.3886/ICPSR38482.v2
 
